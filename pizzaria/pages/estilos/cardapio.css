@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+}
+body{
+    background-color: orange;
+}
+
+.home{
+    margin-right: auto; 
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
+
+.headerCardapio{
+    font-size: 30px;
+    display: flex;
+    background-color: whitesmoke;
+    height: 120px;
+    margin: 0 auto 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.img{
+    display: flex;
+}
+
+.pizza{
+    width: 200px;
+    margin: 25px 0 0;
+    height: 150px;
+    margin: 10px 20px;
+}
